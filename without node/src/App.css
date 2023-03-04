@@ -1,0 +1,9 @@
+*{
+  box-sizing:box-shadow;
+  margin: 0;
+}
+
+body{
+  color:#333;
+  background-color: #ddd;
+}
